@@ -1,1 +1,2 @@
 # code-counter-plugin
+# test
